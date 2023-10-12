@@ -1,0 +1,4 @@
+linear kernel - threshold = 0.6
+poly kernel - threshold = 0.1 or 0.4
+rbf kernel - threshold = 0.2 and non existent
+sigmoid kernel - threshold = more than 1
